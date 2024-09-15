@@ -22,6 +22,7 @@ I am a Ph.D. student at the department of artificial intelligence in [Korea Univ
 - **[Mar. 2022]** Started the integrated MS/PhD program in the **[Computer Vision Lab, Korea University](https://kuaicv.com/)**.
 
 
+[Some Link]({% post_url 2011-12-31-new-years-eve-is-awesome %})
 
 {% include_relative _includes/publications.md %}
 
