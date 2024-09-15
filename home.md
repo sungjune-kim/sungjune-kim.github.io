@@ -7,3 +7,5 @@ title:  "Blog Posts"
 
 
 heeehee success!
+
+{% include_relative _includes/publications.md %}
