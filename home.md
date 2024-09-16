@@ -13,4 +13,5 @@ I truly believe that when you want to say you *know* something, you should be pr
 - [Deep Learning](https://sungjune-kim.github.io/)
 - [Etc.](https://sungjune-kim.github.io/)
 
-https://sungjune-kim.github.io/homes.html
+
+[Link to a page]({{ site.baseurl }}{% link homes.html %})
