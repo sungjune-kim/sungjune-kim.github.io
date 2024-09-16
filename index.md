@@ -25,4 +25,3 @@ I am a Ph.D. student at the department of artificial intelligence in [Korea Univ
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->

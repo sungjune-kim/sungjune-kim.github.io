@@ -14,5 +14,3 @@ I truly believe that when you want to say you *know* something, you should be pr
 - [Etc.](https://sungjune-kim.github.io/)
 
 [Link title]({% post_url 2024-09-15-home %})
-
-[Link title]({% baseurl homes %})
