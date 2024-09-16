@@ -2,9 +2,8 @@
 layout: post
 ---
 
-# Welcome!!!
-[Back to personal page](https://sungjune-kim.github.io/)
+# Mathematics
+[Back to personal page](https://sungjune-kim.github.io/) | [Back to blog home](https://sungjune-kim.github.io/home.html)
 
-I truly believe that when you want to say you *know* something, you should be proficient enough to *teach* it to someone else. This is why I am starting this blog, to make my vauge knowledges concrete by 
-
-[Link title]({% post_url 2024-09-15-post1 %})
+### Linear Algebra
+ - [Link title]({% post_url 0000-00-00-post1 %})
