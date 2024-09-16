@@ -7,6 +7,4 @@ layout: post
 
 I truly believe that when you want to say you *know* something, you should be proficient enough to *teach* it to someone else. This is why I am starting this blog, to make my vauge knowledges concrete by 
 
-
-
 [Link title]({% post_url 2024-09-15-post1 %})
