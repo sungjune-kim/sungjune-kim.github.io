@@ -9,4 +9,4 @@ title:  "Mathematics"
 ### Linear Algebra
  - [Link title]({% post_url 1000-01-01-vector-calculus %})
 
- {% include_relative _includes/posts.md %}
+ {% include_relative /_includes/posts.md %}
