@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: bpost
 title:  "Mathematics"
 ---
 
