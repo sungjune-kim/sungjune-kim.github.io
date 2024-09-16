@@ -9,5 +9,5 @@ title:  "Mathematics"
 ### Linear Algebra
  - [Link title]({% post_url 1000-01-01-vector-calculus %})
 
+ {% include_relative /_includes/publications.md %}
  
- [Project 1]({{ '_includes/posts.md' | relative_url }})
