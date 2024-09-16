@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Blog Posts"
 ---
 
 {% include_relative _includes/publications.md %}
