@@ -9,7 +9,7 @@
       <div class="tldr">{{ link.tldr }}</div>
   </div>
   <!-- </div> -->
-</div>
+<!-- </div> -->
 </li>
 {% endfor %}
 </ol>
