@@ -1,6 +1,6 @@
 <!-- <h3 id="publications" style="margin: 2px 0px -15px;">Posts</h3> -->
 <div class="publications">
-<ol class="bibliography">
+<!-- <ol class="bibliography"> -->
 {% for link in site.data.posts.main %}
 <li>
 <!-- <div class="pub-row"> -->
@@ -12,5 +12,5 @@
 </div>
 </li>
 {% endfor %}
-</ol>
+<!-- </ol> -->
 </div>
