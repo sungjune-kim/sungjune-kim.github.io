@@ -1,6 +1,6 @@
 
 <ol class="bibliography">
-{% for link in site.data.posts.main %}
+{% for link in site.data.posts_m_p.main %}
 <li>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
