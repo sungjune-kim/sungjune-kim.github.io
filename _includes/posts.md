@@ -2,7 +2,7 @@
 <!-- <div class="publications"> -->
 <ol class="bibliography">
 {% for link in site.data.posts.main %}
-<li>
+<!-- <li> -->
 <!-- <div class="pub-row"> -->
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 0px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
@@ -10,7 +10,7 @@
   </div>
   <!-- </div> -->
 </div>
-</li>
+<!-- </li> -->
 {% endfor %}
 </ol>
 <!-- </div> -->
