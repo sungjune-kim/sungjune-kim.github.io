@@ -5,8 +5,8 @@ main:
     conference_short: ECCV 24'
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://eccv.ecva.net/virtual/2024/poster/1385
-    bibtex: https://sungjuune.github.io/
-    notes: Poster Presentation
+    # bibtex: https://sungjuune.github.io/
+    # notes: Poster Presentation
     # image: ./assets/img/ViRR.png
     # notes: Early Accept
 
@@ -15,8 +15,8 @@ main:
     conference_short: CVPR 24'
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf
-    bibtex: https://sungjuune.github.io/
-    notes: Poster Presentation
+    # bibtex: https://sungjuune.github.io/
+    # notes: Poster Presentation
     # image: ./assets/img/HighGraph.png
 
   - title: Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering
@@ -24,6 +24,6 @@ main:
     conference_short: Inf. Sci. 24'
     conference: <strong>Information Sciences</strong>, 2023.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0020025523013452
-    bibtex: https://sungjuune.github.io/
-    notes: Impact Factor 8.1
+    # bibtex: https://sungjuune.github.io/
+    # notes: Impact Factor 8.1
     # image: ./assets/img/SMGCN.png
