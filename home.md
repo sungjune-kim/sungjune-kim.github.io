@@ -10,5 +10,5 @@ I truly believe that when you want to say you *know* something, you should be pr
 
 ## Categories
 - [Mathematics]({% post_url 2000-01-01-mathematics %})
-- [Deep Learning](https://sungjune-kim.github.io/)
+- [Deep Learning]({% post_url 2000-01-01-deep-learning %})
 - [Etc.](https://sungjune-kim.github.io/)
