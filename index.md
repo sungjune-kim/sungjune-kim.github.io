@@ -8,12 +8,14 @@ I am a Ph.D. student at the department of artificial intelligence in [Korea Univ
 
 ## Research Interests
 
-- **Autonomous Driving:** Motion / Trajectory Prediction, 3D Visual Perception
+- **Autonomous Driving:** Trajectory / Motion Forecasting, 3D Visual Perception
 - **Robot Vision:** Vision-Language Navigation
 
 ## News
 
-- **[Jul. 2024]** A paper on motion forecasting is accepted to **[ECCV 2024](https://eccv.ecva.net/)**.
+- **[Mar. 2025]** I got a 1-year visiting research offer from the **[University of Michigan](https://web.eecs.umich.edu/~honglak/)** 🇺🇸
+- **[Feb. 2025]** A paper on 3D Occupancy Prediction is accepted to **[CVPR 2025](https://kuai-lab.github.io/cvpr2025protoocc/)**.
+- **[Jul. 2024]** A paper on trajectory prediction is accepted to **[ECCV 2024](https://eccv.ecva.net/)**.
 - **[Mar. 2024]** Started on-site research collaboration with **[Samsung Advanced Institute of Technology](https://www.sait.samsung.co.kr/saithome/main/main.do)**.
 - **[Feb. 2024]** A paper on pedestrian trajectory prediction is accepted to **[CVPR 2024](https://cvpr.thecvf.com/)**.
 - **[Dec. 2023]** Recieved the 2023-Fall **Best Paper Award** in School of Informatics, Korea University.
