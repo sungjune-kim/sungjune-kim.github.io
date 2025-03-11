@@ -13,6 +13,7 @@ main:
     conference_short: CVPR 25'
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://cvpr.thecvf.com/virtual/2025/poster/32422
+    page: https://kuai-lab.github.io/cvpr2025protoocc/
     bibtex: https://sungjune-kim.github.io/
     notes: Poster Presentation
     image: ./assets/img/protoocc.png
