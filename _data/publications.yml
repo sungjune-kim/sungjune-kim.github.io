@@ -6,7 +6,6 @@ main:
     conference: under review, 2025.
     pdf: https://sungjune-kim.github.io/
     bibtex: https://sungjune-kim.github.io/
-    notes: Fingers crossed 🤞
     image: ./assets/img/feedtta.png
 
   - title: 3D Occupancy Prediction with Low-resolution Queries via Prototype-aware View Transformation
