@@ -12,7 +12,7 @@ main:
     authors: Gyeongrok Oh*, <strong>Sungjune Kim*</strong>, Heeju Ko, Hyung-gun Chi, Jinkyu Kim, Dongwook Lee, Daehyun Ji, Sungjoon Choi, Sujin Jang, Sangpil Kim
     conference_short: CVPR 25'
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://cvpr.thecvf.com/virtual/2025/poster/32422
+    pdf: https://arxiv.org/abs/2503.15185
     page: https://kuai-lab.github.io/cvpr2025protoocc/
     bibtex: https://sungjune-kim.github.io/
     notes: Poster Presentation
