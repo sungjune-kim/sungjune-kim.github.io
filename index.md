@@ -13,6 +13,7 @@ I am a Ph.D. student at the department of artificial intelligence in [Korea Univ
 
 ## News
 
+- **[May. 2025]** A paper on Vision-Language Navigation is accepted to **[ICML 2025](https://icml.cc/)**
 - **[Mar. 2025]** I got a 1-year visiting research offer from the **[University of Michigan](https://web.eecs.umich.edu/~honglak/)** 🇺🇸
 - **[Feb. 2025]** A paper on 3D Occupancy Prediction is accepted to **[CVPR 2025](https://kuai-lab.github.io/cvpr2025protoocc/)**.
 - **[Jul. 2024]** A paper on trajectory prediction is accepted to **[ECCV 2024](https://eccv.ecva.net/)**.

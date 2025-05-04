@@ -2,8 +2,8 @@ main:
 
   - title: Test-time Adaptation for Online Vision-Language Navigation with Feedback-based Reinforcement Learning
     authors: <strong>Sungjune Kim*</strong>, Gyeongrok Oh*, Heeju Ko, Daehyun Ji, Dongwook Lee, Byung-Jun Lee, Sujin Jang, Sangpil Kim
-    conference_short: under review'
-    conference: under review, 2025.
+    conference_short: ICML 25'
+    conference: International Conference on Machine Learning, 2025.
     pdf: https://sungjune-kim.github.io/
     bibtex: https://sungjune-kim.github.io/
     image: ./assets/img/feedtta.png
