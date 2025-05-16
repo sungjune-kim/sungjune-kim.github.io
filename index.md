@@ -6,15 +6,16 @@ layout: homepage
 
 I am a Ph.D. student at the department of artificial intelligence in [Korea University](https://korea.edu/mbshome/mbs/en/index.do), supervised by [Prof. Sangpil Kim](https://kuaicv.com/professor/). My research focuses on deep learning based computer vision for autonomous driving and robot navigation. Specifically, processing visual perceptions for motion and trajectory prediction is my primary interest. Ultimately, my goal is to develop safe autonomous driving systems or robots that can interact harmoniously with humans and koalas!🚙🧍‍♂️🐨🤖
 
+
+
 ## Research Interests
 
 - **Autonomous Driving:** Trajectory / Motion Forecasting, 3D Visual Perception
 - **Robot Vision:** Vision-Language Navigation
 
 ## News
-
+- **[May. 2025]** Started a new jouney as a visiting researcher at the 🇺🇸 **[University of Michigan](https://web.eecs.umich.edu/~honglak/)** 🇺🇸
 - **[May. 2025]** A paper on Vision-Language Navigation is accepted to **[ICML 2025](https://icml.cc/)**
-- **[Mar. 2025]** I got a 1-year visiting research offer from the **[University of Michigan](https://web.eecs.umich.edu/~honglak/)** 🇺🇸
 - **[Feb. 2025]** A paper on 3D Occupancy Prediction is accepted to **[CVPR 2025](https://kuai-lab.github.io/cvpr2025protoocc/)**.
 - **[Jul. 2024]** A paper on trajectory prediction is accepted to **[ECCV 2024](https://eccv.ecva.net/)**.
 - **[Mar. 2024]** Started on-site research collaboration with **[Samsung Advanced Institute of Technology](https://www.sait.samsung.co.kr/saithome/main/main.do)**.
@@ -28,3 +29,5 @@ I am a Ph.D. student at the department of artificial intelligence in [Korea Univ
 
 {% include_relative _includes/publications.md %}
 
+
+<!-- {% include_relative _includes/services.md %} -->
